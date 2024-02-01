@@ -1,0 +1,2 @@
+# jangkoding
+latihan dijangkoding
